@@ -1,0 +1,6 @@
+[submodule "test_git_cmake_lib"]
+	path = test_git_cmake_lib
+	url = https://github.com/gq115/test.git
+[submodule "test_git_makefile_lib"]
+	path = test_git_makefile_lib
+	url = https://github.com/gq115/test.git
